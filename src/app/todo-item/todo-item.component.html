@@ -1,0 +1,15 @@
+<div class="container mt-2">
+  <form [formGroup]="addItemForm" (ngSubmit)="addItem(addItemForm.value)">
+  <div class="form-group">
+    <label for="exampleInputEmail1">ID</label>
+    <input type="number" class="form-control" id="userid"  name="price" formControlName="price" aria-describedby="emailHelp" placeholder="Enter Price">
+  </div>
+  <br>
+  <div class="form-group">
+    <label for="exampleInputPassword1">Item</label>
+    <input type="text" class="form-control" formControlName="item" id="item" placeholder="Enter Item">
+  </div>
+  <br>
+  <button type="submit" class="btn btn-primary">Add Item</button>
+</form>
+</div>

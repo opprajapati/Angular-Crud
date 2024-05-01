@@ -1,0 +1,49 @@
+{
+  "todoItem": [
+    {
+      "id": "1",
+      "item": "Running",
+      "price": 30
+    },
+    {
+      "id": "2",
+      "item": "Movie",
+      "price": 30
+    },
+    {
+      "id": "3",
+      "item": "Zym",
+      "price": 30
+    },
+    {
+      "id": "4",
+      "item": "Park",
+      "price": 30
+    },
+    {
+      "id": "5",
+      "item": "Marathon",
+      "price": 30
+    },
+    {
+      "id": "d026",
+      "price": 40,
+      "userItem": "Grocery"
+    },
+    {
+      "id": "6c5a",
+      "price": 100,
+      "item": "Internet"
+    },
+    {
+      "id": "83ff",
+      "price": 450,
+      "item": "House Rent"
+    },
+    {
+      "id": "25fb",
+      "price": 120,
+      "item": "Power Bills"
+    }
+  ]
+}

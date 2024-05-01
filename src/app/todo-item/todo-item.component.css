@@ -1,0 +1,13 @@
+.container{
+    margin-left: 350px;
+    margin-top: 50px;
+    border: 1px;
+    padding-top: 50px;
+}
+input{
+    width: 350px;
+    border: 1px solid black;
+}
+button{
+    margin-left: 130px;
+}

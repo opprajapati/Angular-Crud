@@ -1,0 +1,43 @@
+.listHeader{
+    text-align: center;
+    margin-top: 20px;
+}
+.listheading{
+    text-align: center;
+    color: brown;
+}
+.headcontaner{
+    width: 300px;
+    height: 30px;
+    margin-left: 100px;
+    margin-right: 200px;
+}
+.table{
+    border: 1px solid black;
+    width: 1000px;
+    margin-left: 100px;
+
+}
+.addbtn{
+    display: flex;
+}
+.newbtn{
+    align-items: end;
+}
+.btn btn-primary{
+  align-items: end;
+  margin-left: 200px;
+}
+.tableContainer{
+    display: flex;
+}
+.modal fade{
+    height: 600px;
+}
+input {
+    margin-left: 20px;
+    border: 1px solid;
+}
+label{
+    margin-left: 20px;
+}

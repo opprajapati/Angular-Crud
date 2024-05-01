@@ -1,0 +1,15 @@
+.headerNav{
+    width: 100%;
+    height:50px;
+    background-color: aquamarine;
+    display: flex;
+    
+}
+
+a{
+    text-decoration:none;
+    text-align: center;
+    margin-left: 200px;
+   
+
+}
